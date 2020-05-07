@@ -27,11 +27,13 @@ Thank you.
 
 ## Resources on Software: 
 
-- R and R Studio: Plenty of resources available at: 
+I will use R or Excel to demonstrate some key ideas via simulation. While you can accomplish these tasks using Excel, it would be in your interest to learn a programming language (such as R/Python) and SQL early on. I list some resources; there are plenty of resources online.
+
+- R and R Studio: Plenty of resources to learn R are available online: 
 
     -- [R for Data Science](r4ds.had.co.nz)
 
-    -- [Grant McDermott](https://github.com/uo-ec607). 
+    -- [Grant McDermott](https://github.com/uo-ec607), [Jenny Bryan](https://stat545.com/).
 
 - Microsoft Excel/Any Spreadsheet Software: Obtain free license to Office 365 from ASU UTO. 
 
