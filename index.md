@@ -9,15 +9,17 @@ My (preferred) contact information is through:
 1. Canvas. 
 1. Slack.
 
-Please do *not* send me emails. 
+Please do **not** email me. 
 
 Thank you. 
 
 # Syllabus
  
- See [syllabus](http://harishguda.me/teaching) for syllabus. 
+ See [syllabus](http://harishguda.me/teaching). 
 
 # Content
+
+All core content is available via Canvas. Any supplemental/discarded/old material is available below. Do **not** consume this material unless instructed to do so. 
 
 ## Lecture Slides
 
