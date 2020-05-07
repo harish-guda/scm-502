@@ -1,8 +1,17 @@
 # SCM 502
 
+This is a complimentary website to the main Canvas site for the course. Please refer to content on this site after completing all tasks listed on the Canvas site. 
+
 # Contact: 
 
-See Canvas for all contact information. 
+My (preferred) contact information is through: 
+
+1. Canvas. 
+1. Slack.
+
+Please do *not* send me emails. 
+
+Thank you. 
 
 # Syllabus
  
