@@ -6,7 +6,7 @@ nav_order: 4
 
 ## Resources (Software):
 
-We will study managerially relevant operations/supply chain problems using the lens of decision-making under uncertainty. There are two steps: 
+We will study managerially relevant operations and supply chain problems using the lens of decision-making under uncertainty. There are two steps: 
 1. Modeling the uncertainty. 
 2. Modeling the tradeoffs in decision-making. 
 
