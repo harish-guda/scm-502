@@ -10,5 +10,5 @@ search_enabled: true
 # aux links
 aux_links: 
   "Canvas site":
-    - "https://canvas.asu.edu"
+    - "//canvas.asu.edu"
 aux_links_new_tab: false
