@@ -1,1 +1,11 @@
 remote_theme: pmarsceill/just-the-docs
+
+
+# search
+search_enabled: true
+
+# aux links
+aux_links: 
+  "Canvas site":
+    - "canvas.asu.edu"
+aux_links_new_tab: false
