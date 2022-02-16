@@ -1,5 +1,8 @@
 remote_theme: pmarsceill/just-the-docs
 
+title: SCM 502
+baseurl: "/scm-502"
+url: "https://harish-guda.github.io"
 
 # search
 search_enabled: true
@@ -7,5 +10,5 @@ search_enabled: true
 # aux links
 aux_links: 
   "Canvas site":
-    - "canvas.asu.edu"
+    - "https://canvas.asu.edu"
 aux_links_new_tab: false
