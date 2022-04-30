@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Practice Problems
+has_children: true
 nav_order: 2
 ---
 
