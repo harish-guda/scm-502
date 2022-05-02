@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Contact
-nav_order: 3
+nav_order: 4
 ---
 
-Please contact me through: 
+If you are a student in SCM 501/502, please contact me through: 
 1. Canvas Messages
 2. Slack
 
